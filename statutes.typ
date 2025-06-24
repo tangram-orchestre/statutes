@@ -148,6 +148,10 @@ En cas de dissolution prononcée selon les modalités prévues à l’article 12
 Le rapport et les comptes annuels, tels que définis à l’article 13 (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département.
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentant·e·s de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
 
+= *ARTICLE 19 - MODIFICATION DES STATUTS*
+
+Toute modification des statuts de l'association doit être soumise au vote en assemblée générale, conformément aux modalités définies dans les articles 13 et 14.
+
 Fait à Paris, le #h(2.5cm),
 
 Signatures, précédées du nom, prénom et  de la mention  “Lu et approuvé” :
