@@ -39,8 +39,10 @@ Le statut de membre de droit ou de membre invité est défini lors de l'adhésio
 
 = *ARTICLE 8 \- COTISATIONS*
 
-Les membres de l'association doivent s'acquitter d'une cotisation semestrielle dont le montant minimal est  fixé à 10 € (DIX EUROS).
-La cotisation n'est pas remboursable.
+Les membres de l'association doivent s'acquitter d'une cotisation semestrielle dont le montant est fixé comme suit :
+- Tarif plein, dont le montant est fixé et voté chaque semestre lors de l’Assemblée Générale ordinaire
+- Tarif solidaire (10€, dix euros) : étudiant·es, demandeur·euse·s d’emplois, bénéficiaires du RSA, personnes dont le dernier revenu fiscal de référence est inférieur ou égal à 110% du SMIC
+L’accès au tarif solidaire est conditionné à la remise d’une déclaration sur l’honneur attestant de la situation du·de la bénéficiaire.
 
 = *ARTICLE 9 \- RADIATIONS*
 
