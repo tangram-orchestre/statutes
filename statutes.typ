@@ -45,6 +45,8 @@ Seules des personnes physiques peuvent faire partie de l'association.
 Pour faire partie de l'association, il faut être agréé par le bureau. En cas de refus, ce dernier n'aura pas à en faire connaître les raisons.
 Le statut de membre de droit ou de membre invité est défini lors de l'adhésion par le bureau, en prenant en compte le souhait du·de la candidat·e.
 
+#pagebreak()
+
 = COTISATIONS
 
 Les membres de l'association doivent s'acquitter d'une cotisation semestrielle dont le montant est fixé comme suit :
@@ -156,7 +158,11 @@ En cas de dissolution prononcée selon les modalités prévues à l’article @c
 Le rapport et les comptes annuels, tels que définis à l’article @assemblée-générale-ordinaire (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département. \
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentant·e·s de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
 
-Fait à #h(3cm), le #h(2.5cm),
+= MODIFICATION DES STATUTS
+
+Toute modification des statuts de l'association doit être soumise au vote en assemblée générale, conformément aux modalités définies dans les articles 13 et 14.
+
+Fait à Paris, le #h(2.5cm),
 
 Signatures, précédées du nom, prénom et de la mention “Lu et approuvé” :
 
