@@ -45,10 +45,14 @@ Seules des personnes physiques peuvent faire partie de l'association.
 Pour faire partie de l'association, il faut être agréé par le bureau. En cas de refus, ce dernier n'aura pas à en faire connaître les raisons.
 Le statut de membre de droit ou de membre invité est défini lors de l'adhésion par le bureau, en prenant en compte le souhait du·de la candidat·e.
 
+#pagebreak()
+
 = COTISATIONS
 
-Les membres de l'association doivent s'acquitter d'une cotisation semestrielle dont le montant minimal est  fixé à 10 € (DIX EUROS).
-La cotisation n'est pas remboursable.
+Les membres de l'association doivent s'acquitter d'une cotisation semestrielle dont le montant est fixé comme suit :
+- Tarif plein, dont le montant est fixé et voté chaque semestre lors de l’Assemblée Générale ordinaire
+- Tarif solidaire (10€, dix euros) : étudiant·es, demandeur·euse·s d’emplois, bénéficiaires du RSA, personnes dont le dernier revenu fiscal de référence est inférieur ou égal à 110% du SMIC
+L’accès au tarif solidaire est conditionné à la remise d’une déclaration sur l’honneur attestant de la situation du·de la bénéficiaire.
 
 = RADIATIONS
 
@@ -91,11 +95,13 @@ Le·a secrétaire général·e assure la correspondance de l'association, tient 
 
 L’élection du bureau se fait par liste complète (un·e président·e, un·e trésorier·ère et un·e secrétaire général·e). Les listes candidates doivent déposer leur candidature auprès du bureau sortant au minimum 7 jours avant l’Assemblée Générale donnant lieu au vote.
 
-Les membres du bureau sont élus pour un mandat de 5 mois, prolongeable jusqu’à 8 mois si la situation l’exige. Il se termine à l’issue de l’Assemblée Générale ayant installé le nouveau bureau. La démission éventuelle du bureau ne peut être effective qu’après la tenue d’élections anticipées.
+Les membres du bureau sont élus pour un mandat d’un an, renouvelable. Leur mandat débute à l’issue de l’Assemblée Générale de janvier et prend fin à l’issue de celle de l’année suivante, sauf réélection.
 
-L’élection est réalisée par un vote à main levée, sauf demande explicite d’un des membres actifs présents. Leur mandat est renouvelable.
+En cas d’empêchement d’un membre du bureau en cours d’année, un vote de remplacement ou de réélection partielle ou totale du bureau peut être organisé à l’occasion de l’Assemblée Générale de juin ou, si nécessaire, en Assemblée Générale Extraordinaire.
 
-Dans le cas où aucune liste ne serait déposée dans les délais impartis, le bureau en place se trouve automatiquement reconduit pour 2 mois. Il organisera une ou plusieurs élections dans ce délai suivant les mêmes modalités. A l’issue de ce délai, si aucune solution n’a été trouvée, il convoquera une Assemblée Générale Extraordinaire visant à régler la situation.
+L’élection est réalisée par un vote à main levée, sauf demande explicite d’un des membres actifs présents.
+
+Dans le cas où aucune liste ne serait déposée dans les délais impartis, le bureau en place est reconduit pour un délai maximal de 2 mois, durant lequel de nouvelles élections doivent être organisées selon les mêmes modalités. Si aucune solution n’est trouvée à l’issue de ce délai, une Assemblée Générale Extraordinaire est convoquée pour régler la situation.
 
 = COMITÉ D'ORGANISATION <comité-organisation>
 
@@ -108,12 +114,23 @@ Les décisions sont prises à la majorité des voix des présent·e·s. En cas d
 
 = ASSEMBLÉE GÉNÉRALE ORDINAIRE <assemblée-générale-ordinaire>
 
-L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils soient. Sept jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du·de la secrétaire. L'ordre du jour figure sur les convocations. Un quorum de 25% des membres de droit est requis pour la tenue de l’assemblée générale.\
-Le·a président·e, assisté·e des membres du bureau, préside l'assemblée et expose la situation morale ou l’activité de l'association. \
-Le·a trésorier·ère rend compte de sa gestion et soumet les comptes pour la période d’activité (bilan, compte de résultat et annexe) à l'approbation de l'assemblée.
+Deux assemblées générales ordinaires sont tenues chaque année civile :
+- Une en janvier, qui comprend :
+  - La présentation et le vote de la clôture des comptes officiels de l’année précédente (bilan, compte de résultat, annexe).
+  - La présentation et le vote du bilan moral du semestre précédent (juillet à décembre).
+  - L’élection du bureau pour un mandat d’un an.
+- Une en juin, qui comprend :
+  - La présentation et le vote du bilan moral du semestre précédent (janvier à juin).
+  - Éventuellement, la réélection du bureau ou l’élection d’un nouveau bureau si l’un de ses membres ne peut poursuivre son mandat.
 
-Les décisions sont prises à la majorité des voix des membres présents ou représentés. Il est procédé, après épuisement de l'ordre du jour, au renouvellement des membres sortants du conseil.
-Toutes les délibérations sont prises à main levée, sauf demande explicite d’un des membres actifs présents.
+L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils soient. Sept jours au moins avant la date fixée, les membres sont convoqués par les soins du·de la secrétaire, avec mention de l’ordre du jour.
+
+Un quorum de 25 % des membres de droit est requis pour la tenue de l’assemblée générale.
+
+Le·a président·e, assisté·e des membres du bureau, préside l’assemblée et présente la situation morale ou l’activité de l’association. Le·a trésorier·ère rend compte de sa gestion lors de l’assemblée de janvier.
+
+Les décisions sont prises à la majorité des voix des membres présents ou représentés. Toutes les délibérations sont prises à main levée, sauf demande explicite d’un des membres actifs présents.
+
 Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés.
 
 = ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
@@ -141,7 +158,11 @@ En cas de dissolution prononcée selon les modalités prévues à l’article @c
 Le rapport et les comptes annuels, tels que définis à l’article @assemblée-générale-ordinaire (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département. \
 L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentant·e·s de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
 
-Fait à #h(3cm), le #h(2.5cm),
+= MODIFICATION DES STATUTS
+
+Toute modification des statuts de l'association doit être soumise au vote en assemblée générale, conformément aux modalités définies dans les articles 13 et 14.
+
+Fait à Paris, le #h(2.5cm),
 
 Signatures, précédées du nom, prénom et de la mention “Lu et approuvé” :
 
