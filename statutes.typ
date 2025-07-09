@@ -135,7 +135,7 @@ Les décisions des assemblées générales s’imposent à tous les membres, y c
 
 = ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
 
-Si besoin est considéré par le bureau, ou sur la demande de la moitié plus un des membres inscrits, le·a président·e peut convoquer une assemblée générale extraordinaire.
+Si le besoin est considéré par le bureau, ou sur la demande de la moitié plus un des membres inscrits, le·a président·e peut convoquer une assemblée générale extraordinaire.
 Les modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire.
 Les délibérations sont prises à la majorité des membres présents ou représentés.
 
