@@ -37,15 +37,25 @@ jobs:
             --input
             DATE=${{ env.PRETTY_DATE }}
 
+      - name: Generate PDF name
+        run: |
+          echo "PDF_DATE=Tangram_Statuts-${{ env.DATE }}.pdf" >> $GITHUB_ENV
+          echo "PDF_REF_NAME=Tangram_Statuts-${{ github.ref_name }}.pdf" >> $GITHUB_ENV
+
+      - name: Rename output file
+        run: |
+          cp statutes.pdf "${{ env.PDF_DATE }}"
+          cp statutes.pdf "${{ env.PDF_REF_NAME }}"
+
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
         with:
           name: Tangram-Statutes_${{ env.DATE }}
-          path: "statutes.pdf"
+          path: ${{ env.PDF_DATE }}
 
       - name: Release
         uses: softprops/action-gh-release@v1
         if: github.ref_type == 'tag'
         with:
-          name: "${{ github.ref_name }} — ${{ env.DATE }}"
-          files: statutes.pdf
+          name: "${{ github.ref_name }}"
+          files: ${{ env.PDF_REF_NAME }}
