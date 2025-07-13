@@ -1,7 +1,7 @@
 #set list(marker: ([•], [∘]))
 
 #set text(18pt)
-#align(center)[= Tangram - Statuts de l’association]
+#align(center)[= Tangram - Statuts de l'association]
 
 #set heading(numbering: n => [ARTICLE #n - ])
 
@@ -22,22 +22,22 @@ Cette association a pour but de réunir des instrumentistes en vue de répétiti
 
 = SIÈGE SOCIAL
 
-Le siège social est fixé au : 6 rue Alfred de Musset, à Villejuif (94800). Le bureau est libre de déclarer à la préfecture le transfert du siège social de l’association, sans AG préalable.
+Le siège social est fixé au : 6 rue Alfred de Musset, à Villejuif (94800). Le bureau est libre de déclarer à la préfecture le transfert du siège social de l'association, sans AG préalable.
 
 = DURÉE
 
-La durée de l’association est illimitée.
+La durée de l'association est illimitée.
 
 = COMPOSITION
 
-L’association se compose de :
+L'association se compose de :
 
-- Membres de droit : ce sont les musiciens et l’équipe d’encadrement inscrits au cours de la période d’activité, en dehors des musicien·ne·s remplaçant·e·s ou supplémentaires. Le statut de membre de droit est conditionné au paiement de la cotisation et à l’approbation du bureau. Chaque membre de droit possède une voix délibérative aux élections des membres du bureau et aux assemblées générales.
-- Membres invités : ce sont les musicien·ne·s remplaçant·e·s ou supplémentaires intervenant à quelques répétitions et concerts pour rendre service à l’association. Le statut de membre invité n’est soumis qu’à l’approbation du bureau. Les membres invités ne possèdent aucune voix délibérative aux élections des membres du bureau et aux assemblées générales.
+- Membres de droit : ce sont les musiciens et l'équipe d'encadrement inscrits au cours de la période d'activité, en dehors des musicien·ne·s remplaçant·e·s ou supplémentaires. Le statut de membre de droit est conditionné au paiement de la cotisation et à l'approbation du bureau. Chaque membre de droit possède une voix délibérative aux élections des membres du bureau et aux assemblées générales.
+- Membres invités : ce sont les musicien·ne·s remplaçant·e·s ou supplémentaires intervenant à quelques répétitions et concerts pour rendre service à l'association. Le statut de membre invité n'est soumis qu'à l'approbation du bureau. Les membres invités ne possèdent aucune voix délibérative aux élections des membres du bureau et aux assemblées générales.
 
-= SÉANCE D’ESSAI
+= SÉANCE D'ESSAI
 
-Toute personne peut participer à une séance d’essai avant de devenir membre de l’association. Au delà de cette séance d’essai, cette personne doit s’acquitter de la cotisation et ainsi devenir membre de droit pour participer aux activités de l’association.
+Toute personne peut participer à une séance d'essai avant de devenir membre de l'association. Au delà de cette séance d'essai, cette personne doit s'acquitter de la cotisation et ainsi devenir membre de droit pour participer aux activités de l'association.
 
 = ADMISSION
 
@@ -50,9 +50,9 @@ Le statut de membre de droit ou de membre invité est défini lors de l'adhésio
 = COTISATIONS
 
 Les membres de l'association doivent s'acquitter d'une cotisation semestrielle dont le montant est fixé comme suit :
-- Tarif plein, dont le montant est fixé et voté chaque semestre lors de l’Assemblée Générale ordinaire
-- Tarif solidaire (10€, dix euros) : étudiant·es, demandeur·euse·s d’emplois, bénéficiaires du RSA, personnes dont le dernier revenu fiscal de référence est inférieur ou égal à 110% du SMIC
-L’accès au tarif solidaire est conditionné à la remise d’une déclaration sur l’honneur attestant de la situation du·de la bénéficiaire.
+- Tarif plein, dont le montant est fixé et voté chaque semestre lors de l'Assemblée Générale ordinaire
+- Tarif solidaire (10€, dix euros) : étudiant·es, demandeur·euse·s d'emplois, bénéficiaires du RSA, personnes dont le dernier revenu fiscal de référence est inférieur ou égal à 110% du SMIC
+L'accès au tarif solidaire est conditionné à la remise d'une déclaration sur l'honneur attestant de la situation du·de la bénéficiaire.
 
 = RADIATIONS
 
@@ -93,15 +93,15 @@ Le·a trésorier·ère a pour mission de gérer les finances et tenir la comptab
 
 Le·a secrétaire général·e assure la correspondance de l'association, tient à jour les fichiers des adhérent·e·s, archive les documents importants. IeI établit les comptes-rendus des réunions, veille à centraliser et conserver les documents administratifs.
 
-L’élection du bureau se fait par liste complète (un·e président·e, un·e trésorier·ère et un·e secrétaire général·e). Les listes candidates doivent déposer leur candidature auprès du bureau sortant au minimum 7 jours avant l’Assemblée Générale donnant lieu au vote.
+L'élection du bureau se fait par liste complète (un·e président·e, un·e trésorier·ère et un·e secrétaire général·e). Les listes candidates doivent déposer leur candidature auprès du bureau sortant au minimum 7 jours avant l'Assemblée Générale donnant lieu au vote.
 
-Les membres du bureau sont élus pour un mandat d’un an, renouvelable. Leur mandat débute à l’issue de l’Assemblée Générale de janvier et prend fin à l’issue de celle de l’année suivante, sauf réélection.
+Les membres du bureau sont élus pour un mandat d'un an, renouvelable. Leur mandat débute à l'issue de l'Assemblée Générale de janvier et prend fin à l'issue de celle de l'année suivante, sauf réélection.
 
-En cas d’empêchement d’un membre du bureau en cours d’année, un vote de remplacement ou de réélection partielle ou totale du bureau peut être organisé à l’occasion de l’Assemblée Générale de juin ou, si nécessaire, en Assemblée Générale Extraordinaire.
+En cas d'empêchement d'un membre du bureau en cours d'année, un vote de remplacement ou de réélection partielle ou totale du bureau peut être organisé à l'occasion de l'Assemblée Générale de juin ou, si nécessaire, en Assemblée Générale Extraordinaire.
 
-L’élection est réalisée par un vote à main levée, sauf demande explicite d’un des membres actifs présents.
+L'élection est réalisée par un vote à main levée, sauf demande explicite d'un des membres actifs présents.
 
-Dans le cas où aucune liste ne serait déposée dans les délais impartis, le bureau en place est reconduit pour un délai maximal de 2 mois, durant lequel de nouvelles élections doivent être organisées selon les mêmes modalités. Si aucune solution n’est trouvée à l’issue de ce délai, une Assemblée Générale Extraordinaire est convoquée pour régler la situation.
+Dans le cas où aucune liste ne serait déposée dans les délais impartis, le bureau en place est reconduit pour un délai maximal de 2 mois, durant lequel de nouvelles élections doivent être organisées selon les mêmes modalités. Si aucune solution n'est trouvée à l'issue de ce délai, une Assemblée Générale Extraordinaire est convoquée pour régler la situation.
 
 = COMITÉ D'ORGANISATION <comité-organisation>
 
@@ -116,32 +116,32 @@ Les décisions sont prises à la majorité des voix des présent·e·s. En cas d
 
 Deux assemblées générales ordinaires sont tenues chaque année civile :
 - Une en janvier, qui comprend :
-  - La présentation et le vote de la clôture des comptes officiels de l’année précédente (bilan, compte de résultat, annexe).
+  - La présentation et le vote de la clôture des comptes officiels de l'année précédente (bilan, compte de résultat, annexe).
   - La présentation et le vote du bilan moral du semestre précédent (juillet à décembre).
-  - L’élection du bureau pour un mandat d’un an.
+  - L'élection du bureau pour un mandat d'un an.
 - Une en juin, qui comprend :
   - La présentation et le vote du bilan moral du semestre précédent (janvier à juin).
-  - Éventuellement, la réélection du bureau ou l’élection d’un nouveau bureau si l’un de ses membres ne peut poursuivre son mandat.
+  - Éventuellement, la réélection du bureau ou l'élection d'un nouveau bureau si l'un de ses membres ne peut poursuivre son mandat.
 
-L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils soient. Sept jours au moins avant la date fixée, les membres sont convoqués par les soins du·de la secrétaire, avec mention de l’ordre du jour.
+L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils soient. Sept jours au moins avant la date fixée, les membres sont convoqués par les soins du·de la secrétaire, avec mention de l'ordre du jour.
 
-Un quorum de 25 % des membres de droit est requis pour la tenue de l’assemblée générale.
+Un quorum de 25 % des membres de droit est requis pour la tenue de l'assemblée générale.
 
-Le·a président·e, assisté·e des membres du bureau, préside l’assemblée et présente la situation morale ou l’activité de l’association. Le·a trésorier·ère rend compte de sa gestion lors de l’assemblée de janvier.
+Le·a président·e, assisté·e des membres du bureau, préside l'assemblée et présente la situation morale ou l'activité de l'association. Le·a trésorier·ère rend compte de sa gestion lors de l'assemblée de janvier.
 
-Les décisions sont prises à la majorité des voix des membres présents ou représentés. Toutes les délibérations sont prises à main levée, sauf demande explicite d’un des membres actifs présents.
+Les décisions sont prises à la majorité des voix des membres présents ou représentés. Toutes les délibérations sont prises à main levée, sauf demande explicite d'un des membres actifs présents.
 
-Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés.
+Les décisions des assemblées générales s'imposent à tous les membres, y compris absents ou représentés.
 
 = ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
 
 Si le besoin est considéré par le bureau, ou sur la demande de la moitié plus un des membres inscrits, le·a président·e peut convoquer une assemblée générale extraordinaire.
-Les modalités de convocation sont les mêmes que pour l’assemblée générale ordinaire.
+Les modalités de convocation sont les mêmes que pour l'assemblée générale ordinaire.
 Les délibérations sont prises à la majorité des membres présents ou représentés.
 
 = INDEMNITÉS
 
-Toutes les fonctions, y compris celles des membres du conseil d’administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l’accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l’assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
+Toutes les fonctions, y compris celles des membres du conseil d'administration et du bureau, sont gratuites et bénévoles. Seuls les frais occasionnés par l'accomplissement de leur mandat sont remboursés sur justificatifs. Le rapport financier présenté à l'assemblée générale ordinaire présente, par bénéficiaire, les remboursements de frais de mission, de déplacement ou de représentation.
 
 = RÈGLEMENT INTÉRIEUR
 
@@ -151,12 +151,12 @@ Ce règlement éventuel est destiné à fixer les divers points non prévus par 
 
 = DISSOLUTION
 
-En cas de dissolution prononcée selon les modalités prévues à l’article @comité-organisation, un ou plusieurs liquidateurs sont nommés, et l'actif net, s'il y a lieu, est dévolu à un organisme ayant un but non lucratif conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution. L’actif net ne peut être dévolu à un membre de l’association, même partiellement, sauf reprise d’un apport.
+En cas de dissolution prononcée selon les modalités prévues à l'article @comité-organisation, un ou plusieurs liquidateurs sont nommés, et l'actif net, s'il y a lieu, est dévolu à un organisme ayant un but non lucratif conformément aux décisions de l'assemblée générale extraordinaire qui statue sur la dissolution. L'actif net ne peut être dévolu à un membre de l'association, même partiellement, sauf reprise d'un apport.
 
 = LIBÉRALITÉS
 
-Le rapport et les comptes annuels, tels que définis à l’article @assemblée-générale-ordinaire (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département. \
-L’association s’engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l’emploi des libéralités qu’elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentant·e·s de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
+Le rapport et les comptes annuels, tels que définis à l'article @assemblée-générale-ordinaire (y compris ceux des comités locaux) sont adressés chaque année au Préfet du département. \
+L'association s'engage à présenter ses registres et pièces de comptabilité sur toute réquisition des autorités administratives en ce qui concerne l'emploi des libéralités qu'elle serait autorisée à recevoir, à laisser visiter ses établissements par les représentant·e·s de ces autorités compétentes et à leur rendre compte du fonctionnement desdits établissements.
 
 = MODIFICATION DES STATUTS
 
