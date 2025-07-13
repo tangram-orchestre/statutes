@@ -1,0 +1,51 @@
+name: Build Typst document
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - "*"
+  pull_request:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build PDF from Typst
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get current date
+        id: date
+        env:
+          TZ: Europe/Paris
+        run: |
+          echo "PRETTY_DATE=$(date +%d/%m/%Y)" >> $GITHUB_ENV
+          echo "DATE=$(date +%Y-%m-%d_%H-%M-%S)" >> $GITHUB_ENV
+
+      - name: Typst
+        uses: lvignoli/typst-action@main
+        with:
+          source_file: statutes.typ
+          options: |
+            --input
+            DATE=${{ env.PRETTY_DATE }}
+
+      - name: Upload PDF file
+        uses: actions/upload-artifact@v4
+        with:
+          name: Tangram-Statutes_${{ env.DATE }}
+          path: "statutes.pdf"
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: github.ref_type == 'tag'
+        with:
+          name: "${{ github.ref_name }} — ${{ env.DATE }}"
+          files: statutes.pdf

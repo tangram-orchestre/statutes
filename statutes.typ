@@ -162,7 +162,7 @@ L'association s'engage à présenter ses registres et pièces de comptabilité s
 
 Toute modification des statuts de l'association doit être soumise au vote en assemblée générale, conformément aux modalités définies dans les articles 13 et 14.
 
-Fait à Paris, le #h(2.5cm),
+Fait à Paris, le #(sys.inputs.at("DATE", default: h(2.5cm))),
 
 Signatures, précédées du nom, prénom et de la mention “Lu et approuvé” :
 
