@@ -22,7 +22,7 @@ Cette association a pour but de réunir des instrumentistes en vue de répétiti
 
 = SIÈGE SOCIAL
 
-Le siège social est fixé au : 6 rue Alfred de Musset, à Villejuif (94800). Le bureau est libre de déclarer à la préfecture le transfert du siège social de l'association, sans AG préalable.
+Le siège social est fixé au : 30 avenue du Maréchal Foch, à Houilles (78800). Le bureau est libre de déclarer à la préfecture le transfert du siège social de l'association, sans AG préalable.
 
 = DURÉE
 
