@@ -45,6 +45,10 @@ jobs:
       - name: Rename output file
         run: |
           cp statutes.pdf "${{ env.PDF_DATE }}"
+
+      - name: Rename output file for tag
+        if: github.ref_type == 'tag'
+        run: |
           cp statutes.pdf "${{ env.PDF_REF_NAME }}"
 
       - name: Upload PDF file
