@@ -93,7 +93,7 @@ Le·a trésorier·ère a pour mission de gérer les finances et tenir la comptab
 
 Le·a secrétaire général·e assure la correspondance de l'association, tient à jour les fichiers des adhérent·e·s, archive les documents importants. IeI établit les comptes-rendus des réunions, veille à centraliser et conserver les documents administratifs.
 
-L'élection du bureau se fait par liste complète (un·e président·e, un·e trésorier·ère et un·e secrétaire général·e). Les listes candidates doivent déposer leur candidature auprès du bureau sortant au minimum 7 jours avant l'Assemblée Générale donnant lieu au vote.
+L'élection du bureau se fait par liste complète (un·e président·e, un·e trésorier·ère et un·e secrétaire général·e). Les listes candidates doivent déposer leur candidature auprès du bureau sortant au minimum 2 jours avant l'Assemblée Générale donnant lieu au vote.
 
 Les membres du bureau sont élus pour un mandat d'un an, renouvelable. Leur mandat débute à l'issue de l'Assemblée Générale de janvier et prend fin à l'issue de celle de l'année suivante, sauf réélection.
 
